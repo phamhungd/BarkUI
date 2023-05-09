@@ -48,4 +48,4 @@ with gr.Blocks() as demo:
         [output],
     )        
 
-demo.launch(True)
+demo.launch(share=True)
